@@ -1,0 +1,15 @@
+{
+  "name": "SigismundDijkstra",
+  "version": "1.0.0",
+  "description": "In the game The Witcher, Sigismund Dijkstra is the leader of the Redanian Secret Service, because of this he is one of the most important people in the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
